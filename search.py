@@ -1,3 +1,6 @@
+# USAGE
+# python search.py --dataset images --index index.cpickle
+
 # Here's some code to handle loading the images off of the disk and performing the search
 # Most of this code handles displaying the results; the actual search is done in a single line (#25)
 # Import packages
