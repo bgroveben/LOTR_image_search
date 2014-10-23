@@ -1,5 +1,5 @@
 # USAGE
-# python search.py --dataset images --index index.cpickle
+# python index.py --dataset images --index index.cpickle
 
 # Apply image descriptor (rgbhistogram.py) to ech image in the dataset
 # Loop over each image in the dataset, extract a 3D RGB histogram from each image,
