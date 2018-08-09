@@ -1,4 +1,1 @@
-This repo follows a tutorial courtesy of Adrian Rosebrock at PyImageSearch.
-I am using Python to build an image search engine using screenshots from Peter 
-Jackson's 'Lord of the the Rings' and 'The Hobbit' movies.
-Day 1 Bonus: External queries
+# [Apache Superset](https://superset.incubator.apache.org) Projects  
