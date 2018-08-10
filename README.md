@@ -18,3 +18,8 @@
 
 6. To start a development web server on port 8088, use -p to bind to another port
 `> superset runserver -d`
+
+## [Tutorial](https://superset.incubator.apache.org/tutorial.html)  
+* **[Weather Data](https://github.com/dylburger/noaa-ghcn-weather-data)**  
+* **[PostgreSQL Sample Data](https://wiki.postgresql.org/wiki/Sample_Databases)**  
+* **[SQLAlchemy](http://www.sqlalchemy.org/)**
