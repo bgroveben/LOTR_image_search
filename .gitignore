@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Datasets
+data
+*.csv
+*.xls
+*.xslx
+
+# Mac development
+.DS_Store
